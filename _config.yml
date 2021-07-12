@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Project Scientist at NCAR"
   location         : "Boulder, CO"
-  employer         : @NCAR
+  employer         : "@NCAR"
   googlescholar    : "https://scholar-google-com.cuucar.idm.oclc.org/citations?user=s_MXXeEAAAAJ&hl=en"
   email            : "huili7@ucar.edu"
   researchgate     : "https://www.researchgate.net/profile/Hui-Li-63"
